@@ -68,16 +68,15 @@ namespace Entrega4Programacion
         {
             try
             {
-                string filename = "InsertionSort.txt";
-                StreamWriter sw = File.AppendText(filename);
+
                 Console.WriteLine("The numbers in ascending order are: ");
-                sw.WriteLine("The numbers in ascending order are: ");
+
                 for (i = 0; i < n; i++)
                 {
                     Console.WriteLine(a[i]);
-                    sw.WriteLine(a[i]);
+
                 }
-                sw.Close();
+
 
             }
             catch (Exception e)
