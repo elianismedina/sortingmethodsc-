@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Entrega4Programacion/1.0.0": {
+        "runtime": {
+          "Entrega4Programacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrega4Programacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

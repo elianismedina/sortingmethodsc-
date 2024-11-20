@@ -1,0 +1,11 @@
+The numbers in ascending order are: 
+1
+5
+10
+12
+69
+74
+78
+85
+96
+99

@@ -1,0 +1,14 @@
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\bin\Debug\net8.0\Entrega4Programacion.exe
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\bin\Debug\net8.0\Entrega4Programacion.deps.json
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\bin\Debug\net8.0\Entrega4Programacion.runtimeconfig.json
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\bin\Debug\net8.0\Entrega4Programacion.dll
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\bin\Debug\net8.0\Entrega4Programacion.pdb
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.AssemblyInfoInputs.cache
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.AssemblyInfo.cs
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.csproj.CoreCompileInputs.cache
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.dll
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\refint\Entrega4Programacion.dll
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.pdb
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.genruntimeconfig.cache
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\ref\Entrega4Programacion.dll

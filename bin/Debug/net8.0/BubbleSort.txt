@@ -1,0 +1,22 @@
+4,8,10,15,25,35,47,58,66,78The numbers in ascending order are: 
+1
+4
+5
+6
+52
+58
+70
+74
+96
+98
+The numbers in ascending order are: 
+2
+5
+15
+17
+20
+29
+74
+77
+90
+98

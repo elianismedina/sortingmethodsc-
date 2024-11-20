@@ -1,0 +1,22 @@
+The numbers in ascending order are: 
+10
+45
+89
+74
+26
+2
+5
+8
+97
+100
+The numbers in ascending order are: 
+2
+5
+10
+14
+34
+45
+69
+78
+84
+96
