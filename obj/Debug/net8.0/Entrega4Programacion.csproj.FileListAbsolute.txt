@@ -12,3 +12,4 @@ C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\refint\
 C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.pdb
 C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.genruntimeconfig.cache
 C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\ref\Entrega4Programacion.dll
+C:\Users\elianismedina\C#-projects\Entrega4Programacion\obj\Debug\net8.0\Entrega4Programacion.sourcelink.json

@@ -14,7 +14,7 @@ namespace Entrega4Programacion
         int i, j, temp, n = 10;
         public void inputData()
         {
-            Console.WriteLine("Please enter the 10 numbers to sort");
+            Console.WriteLine("Please enter the 10 different numbers to sort");
             for (i = 0; i < n; i++)
             {
                 try
@@ -81,6 +81,25 @@ namespace Entrega4Programacion
                 Console.WriteLine("Error saving and displaying the Data");
             }
 
+        }
+        public void saveData()
+        {
+            try
+            {
+                string docPath = @"C:\Users\elianismedina\C#-projects\Entrega4Programacion";
+                using (StreamWriter outputFile = new StreamWriter(Path.Combine(docPath, "ShellSort.txt")))
+                {
+                    outputFile.WriteLine("SHELL SORT");
+                    outputFile.WriteLine("The numbers in ascending order are: ");
+                    foreach (int number in a)
+                        outputFile.WriteLine(number);
+                }
+                Console.WriteLine("document saved");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error saving and displaying the Data");
+            }
         }
     }
 }

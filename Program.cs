@@ -40,24 +40,28 @@
                             bubble.inputData();
                             bubble.sortData();
                             bubble.displayData();
+                            bubble.saveData();
                             break;
                         case 2:
                             ShellSort shell = new ShellSort();
                             shell.inputData();
                             shell.sortData();
                             shell.displayData();
+                            shell.saveData();
                             break;
                         case 3:
                             SelectionSort selection = new SelectionSort();
                             selection.inputData();
                             selection.sortData();
                             selection.displayData();
+                            selection.saveData();
                             break;
                         case 4:
                             InsertionSort insertion = new InsertionSort();
                             insertion.inputData();
                             insertion.sortData();
                             insertion.displayData();
+                            insertion.saveData();
                             break;
                         case 5:
                             exit = true;

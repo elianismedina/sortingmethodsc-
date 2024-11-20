@@ -20,3 +20,80 @@ The numbers in ascending order are:
 77
 90
 98
+The numbers in ascending order are: 
+4
+10
+11
+25
+26
+47
+65
+78
+85
+89
+The numbers in ascending order are: 
+12
+14
+52
+55
+63
+74
+76
+98
+99
+100
+The numbers in ascending order are: 
+12
+14
+52
+55
+63
+74
+76
+98
+99
+100
+The numbers in ascending order are: 
+10
+14
+44
+52
+52
+63
+74
+88
+97
+100
+The numbers in ascending order are: 
+8
+10
+12
+45
+63
+74
+79
+85
+87
+100
+The numbers in ascending order are: 
+10
+12
+45
+56
+65
+77
+78
+88
+96
+100
+The numbers in ascending order are: 
+10
+12
+45
+65
+78
+89
+99
+100
+120
+130
