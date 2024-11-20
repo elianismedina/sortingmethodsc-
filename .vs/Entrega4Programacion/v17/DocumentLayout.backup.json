@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|c:\\users\\elianismedina\\c#-projects\\entrega4programacion\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|solutionrelative:bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|c:\\users\\elianismedina\\c#-projects\\entrega4programacion\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|solutionrelative:selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|c:\\users\\elianismedina\\c#-projects\\entrega4programacion\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|solutionrelative:shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|c:\\users\\elianismedina\\c#-projects\\entrega4programacion\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|solutionrelative:insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A388B8C9-D2E5-413A-9E9E-CD26198F0A2F}|Entrega4Programacion.csproj|c:\\users\\elianismedina\\c#-projects\\entrega4programacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,25 +35,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BubbleSort.cs",
-              "DocumentMoniker": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\BubbleSort.cs",
-              "RelativeDocumentMoniker": "BubbleSort.cs",
-              "ToolTip": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\BubbleSort.cs",
-              "RelativeToolTip": "BubbleSort.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SelectionSort.cs",
+              "ToolTip": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\SelectionSort.cs",
+              "RelativeToolTip": "SelectionSort.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAtwEkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T16:09:07.66Z",
+              "WhenOpened": "2024-11-20T18:04:32.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ShellSort.cs",
+              "DocumentMoniker": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\ShellSort.cs",
+              "RelativeDocumentMoniker": "ShellSort.cs",
+              "ToolTip": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\ShellSort.cs",
+              "RelativeToolTip": "ShellSort.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAtwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:04:20.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "InsertionSort.cs",
+              "ToolTip": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\InsertionSort.cs",
+              "RelativeToolTip": "InsertionSort.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAtwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T18:02:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\elianismedina\\C#-projects\\Entrega4Programacion\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-20T15:58:47.947Z",
               "EditorCaption": ""

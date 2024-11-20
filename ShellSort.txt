@@ -1,0 +1,12 @@
+SHELL SORT
+The numbers in ascending order are: 
+10
+14
+15
+25
+56
+71
+74
+88
+89
+100

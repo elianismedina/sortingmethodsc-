@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Entrega4Programacion
 {
@@ -11,6 +12,8 @@ namespace Entrega4Programacion
 
         int[] a = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
         int i, j, temp, n = 10;
+        int number;
+
         public void inputData()
         {
             Console.WriteLine("Please enter the 10 different numbers to sort");
@@ -18,8 +21,26 @@ namespace Entrega4Programacion
             {
                 try
                 {
-                    Console.WriteLine("Please enter number {0}", i + 1);
-                    a[i] = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine("Enter number {0}", i + 1);
+                    string? input = Console.ReadLine();
+                    if (string.IsNullOrEmpty(input))
+                    {
+                        Console.WriteLine("Please enter a number");
+                        i--;
+                        continue;
+                    }
+                    number = int.Parse(input);
+
+                    if (a.Contains(number))
+                    {
+                        Console.WriteLine("Please enter a different number");
+                        i--;
+                    }
+                    else
+                    {
+                        a[i] = int.Parse(input);
+
+                    }
                 }
                 catch (Exception e)
                 {
@@ -47,7 +68,7 @@ namespace Entrega4Programacion
         {
             try
             {
-                String filename = "InsertionSort.txt";
+                string filename = "InsertionSort.txt";
                 StreamWriter sw = File.AppendText(filename);
                 Console.WriteLine("The numbers in ascending order are: ");
                 sw.WriteLine("The numbers in ascending order are: ");
