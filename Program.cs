@@ -1,4 +1,7 @@
-﻿namespace Entrega4Programacion
+﻿//Elianis Manuel Medina Morón
+//CC. 1.129.578.794
+//Grupo 213023_218
+namespace Entrega4Programacion
 {
     class Program
     {
